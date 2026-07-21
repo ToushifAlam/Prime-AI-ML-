@@ -1,0 +1,10 @@
+This is a sample file
+for demo of
+File I/O in Python
+programming language
+
+Text tooverwrite 
+the complete data.
+
+Text tooverwrite 
+the complete data.
